@@ -5,7 +5,7 @@ app = Flask(__name__)
 # Set the secret key. Keep this really secret:
 app.secret_key = 'IT@JCUA0Zr98j/3yXa R~XHH!jmN]LWX/,?RT'
 
-PORT_NUMBER = 12500
+PORT_NUMBER = 9500
 
 
 @app.route('/')
